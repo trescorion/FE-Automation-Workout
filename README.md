@@ -1,4 +1,4 @@
-# QA Automation
+# HACI BURAK TAHMAZ_QA Automation
 
 🚀 **.com** web sitesi için test otomasyon projesi
 
